@@ -47,7 +47,7 @@ I've also done an internship at **Serimag** where I built an end-to-end system u
 ### 📬 Connect with Me
 
 - 🌐 [Personal Website](https://guillem-moreno-garcia.vercel.app/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/guillem-moreno-garcia/)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/guillem-moreno-garcia/](https://www.linkedin.com/in/guillem-moreno-garcia-ab8495247/))
 - 📧 [Email](mailto:guillem3605@gmail.com)
 
 <p align="right">
