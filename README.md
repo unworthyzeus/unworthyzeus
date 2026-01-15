@@ -14,6 +14,7 @@
 I am a **Telecommunications Engineer** specialized in **Audiovisual Systems and AI**. I completed my **Bachelor's Degree in Telecommunications Technologies and Services Engineering (GRETST)** and am currently pursuing my **Master's in Telecommunications Engineering (MET)** at **UPC ETSETB**, Barcelona. My academic focus has been on the **Sistemes Audiovisuals / Multimedia** path, bridging signals with state-of-the-art AI.
 
 Beyond academics, I am an active member of the **AESS Estudiants** Robotics Club, where I've worked on complex projects like a **Guitar Self-Playing Accessory**, and I've sharpened my skills in embedded systems and robotic control.
+I've also done an internship at **Serimag** where I built an end-to-end system using LLMs and Diffusion Models to automate multi-modal generation for advertising.
 
 ---
 
