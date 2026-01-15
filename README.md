@@ -39,13 +39,6 @@ Beyond academics, I am an active member of the **AESS Estudiants** Robotics Club
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=unworthyzeus&show_icons=true&theme=tokyonight" alt="Guillem's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unworthyzeus&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-> [!NOTE]
-> If the stats above don't load (due to service downtime), you can also use this alternative:
 > <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=unworthyzeus&theme=tokyonight" /></p>
 
 ---
