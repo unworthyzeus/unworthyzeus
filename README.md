@@ -15,7 +15,7 @@
 I am a **Telecommunications Engineer** specialized in **Audiovisual Systems and AI**. I completed my **Bachelor's Degree in Telecommunications Technologies and Services Engineering (GRETST)** and am currently pursuing my **Master's in Telecommunications Engineering (MET)** at **UPC ETSETB**, Barcelona. My academic focus has been on the **Sistemes Audiovisuals / Multimedia** path, bridging signals with state-of-the-art AI.
 
 There is a subject in my degree called **Advanced Engineering Project** or Projecte Avançat d'Enginyeria (PAE) in catalan, where you do unpaid work for a real product that a company will use, it's in teams of about 10.
-In my case I improved the internal bus communications of a robot that **HP** was developing. I contributed to the smart node discovery but the thing that I did entirely by myself was the firmware updating protocol / OS.
+In my case I improved the internal bus communications of a robot that **HP** was developing. I contributed to the smart node discovery but the thing that I did entirely by myself was the firmware updating protocol.
 
 Beyond academics, I am an active member of the **AESS Estudiants** Robotics Club, where I've worked on complex projects like a **Guitar Self-Playing Accessory**, and I've sharpened my skills in embedded systems and robotic control.
 I've also done an internship at **Serimag** where I built an end-to-end system using LLMs and Diffusion Models to automate multi-modal generation for advertising.
