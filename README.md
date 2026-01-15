@@ -17,13 +17,13 @@ I'm a passionate developer focused on creating innovative solutions and learning
 
 ## 📊 GitHub Stats
 
-![GitHub statistics showing repositories, commits, and contribution activity for unworthyzeus](https://github-readme-stats.vercel.app/api?username=unworthyzeus&show_icons=true&theme=radical)
+![unworthyzeus GitHub Stats](https://github-readme-stats.vercel.app/api?username=unworthyzeus&show_icons=true&theme=radical)
 
 ## 📫 How to Reach Me
 
 Feel free to connect with me or check out my work!
 
-[![Visit unworthyzeus GitHub profile](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/unworthyzeus)](https://github.com/unworthyzeus)
+[![GitHub Profile](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/unworthyzeus)](https://github.com/unworthyzeus)
 
 ---
 
