@@ -30,7 +30,7 @@ Beyond academics, I am an active member of the **AESS Estudiants** Robotics Club
 
 ### 🌟 Featured Engineering Projects
 
-- **[AI for Marketing @ Serimag](https://github.com/unworthyzeus)**: Built an end-to-end system using LLMs and Diffusion Models to automate multi-modal generation for advertising.
+- **[AI for Marketing @ Serimag](https://github.com/unworthyzeus)**: Internship where I built an end-to-end system using LLMs and Diffusion Models to automate multi-modal generation for advertising.
 - **[Guitar Self-Playing Accessory @ AESS](https://github.com/unworthyzeus)**: Developed the firmware and motor control for an automatic guitar-playing robot.
 - **[Polyphonic Synthesizer](https://github.com/unworthyzeus/Polyphonical-musical-synthesizer)**: High-performance digital DSP synthesizer.
 - **[Titan-II Submarine](https://github.com/unworthyzeus/Titan-II)**: Remote-controlled submarine with custom embedded communication stack.
@@ -39,12 +39,14 @@ Beyond academics, I am an active member of the **AESS Estudiants** Robotics Club
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=unworthyzeus&show_icons=true&theme=tokyonight&count_private=true" alt="Guillem's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=unworthyzeus&show_icons=true&theme=tokyonight" alt="Guillem's GitHub Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unworthyzeus&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+> [!NOTE]
+> If the stats above don't load (due to service downtime), you can also use this alternative:
+> <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=unworthyzeus&theme=tokyonight" /></p>
 
 ---
 
