@@ -12,7 +12,7 @@
 ### 🚀 The Drive for Complexity
 > "I've always been drawn to the problems that others avoid. For me, engineering isn't just about solving problems; it's about the pure joy of building things."
 
-I am a **Telecommunications Engineer** specialized in **Audiovisual Systems and AI**. I completed my **Bachelor's Degree in Telecommunications Technologies and Services Engineering (GRETST)** and am currently pursuing my **Master's in Telecommunications Engineering (MET)** at **UPC ETSETB**, Barcelona. My academic focus has been on the **Sistemes Audiovisuals / Multimedia** path, bridging signals with state-of-the-art AI.
+I am a **Telecommunications Engineer** specialized in **Audiovisual Systems and AI**. I (basically) completed my **Bachelor's Degree in Telecommunications Technologies and Services Engineering (GRETST)** and am currently pursuing my **Master's in Telecommunications Engineering (MET)** at **UPC ETSETB**, Barcelona. My academic focus has been on the **Sistemes Audiovisuals / Multimedia** path, bridging signals with state-of-the-art AI.
 
 There is a subject in my degree called **Advanced Engineering Project** or Projecte Avançat d'Enginyeria (PAE) in catalan, where you do unpaid work for a real product that a company will use, it's in teams of about 10.
 In my case I improved the internal bus communications of a robot that **HP** was developing. I contributed to the smart node discovery but the thing that I did entirely by myself was the firmware updating protocol.
