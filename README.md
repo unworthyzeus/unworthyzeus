@@ -26,8 +26,8 @@ I've also done an internship at **Serimag** where I built an end-to-end system u
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | Python, C++, C, Matlab, Java, JavaScript |
-| **AI & Signals** | RAG, HAPS Link Modeling, Signal Processing, LLMs, Computer Vision, ML |
+| **Languages** | Python, C++, C, Matlab, Java, JavaScript, TypeScript |
+| **AI & Signals** | RAG, 6G and UAV Link Modeling, Signal Processing, LLMs, Computer Vision, ML |
 | **Hardware** | Embedded Systems, Arduino, PCB Design, Digital Electronics |
 | **General** | Git, Linux, Vercel, ROS |
 
@@ -39,7 +39,7 @@ I've also done an internship at **Serimag** where I built an end-to-end system u
 - **[Guitar Self-Playing Accessory @ AESS](https://github.com/unworthyzeus)**: Developed the firmware and motor control for an automatic guitar-playing robot.
 - **[Polyphonic Synthesizer](https://github.com/unworthyzeus/Polyphonical-musical-synthesizer)**: High-performance digital DSP synthesizer.
 - **[Titan-II Submarine](https://github.com/unworthyzeus/Titan-II)**: Remote-controlled submarine with custom embedded communication stack.
-- **[AI for HAPS Channel Prediction]**: Currently doing my bachelor thesis on Deep learning models to predict channel capacity for High Altitude Platform Stations.
+- **[AI for Channel Prediction for 6G UAV Enabled Networks]**: Currently doing my bachelor thesis on Deep learning models to predict channel capacity for High Altitude Platform Stations.
 
 ---
 
