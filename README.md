@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Telecommunications%20Engineer-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Audiovisual%20Systems-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Firmware%20And%20Robotics-yellow?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Biometrics%20And%20Image%20Processing-green?style=for-the-badge" />
 </p>
