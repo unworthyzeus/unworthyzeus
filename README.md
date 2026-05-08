@@ -1,10 +1,12 @@
-# Hi, I'm Guillem Moreno Garcia
+# 👋 Hi, I'm Guillem Moreno Garcia
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Telecommunications%20Engineering-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20and%20Signal%20Processing-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/UAV%20Propagation%20Modeling-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Embedded%20Systems-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Telecommunications%20Engineer-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Audiovisual%20Systems-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Biometrics%20And%20Image%20Processing-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Firmware%20And%20Robotics-yellow?style=for-the-badge" />
+
 </p>
 
 I am a Telecommunications Engineer focused on the places where signal processing, wireless propagation, machine learning, and practical software meet. I studied Telecommunications Technologies and Services Engineering at UPC ETSETB, Barcelona, and I am currently pursuing the Master's in Telecommunications Engineering.
