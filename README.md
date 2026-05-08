@@ -16,7 +16,7 @@ I like projects that have both theory and teeth: models that respect physics, to
 ## Current Focus
 
 - **TFG: deep learning for air-to-ground radio propagation** - final degree project on predicting 513 x 513 urban propagation maps for UAV base stations from city topology and transmitter height. The work includes strict city-holdout generalization, PMHHNet/PMNet-style baselines, physical prior channels, and a final prior-anchored probabilistic pipeline for path loss, delay spread, and angular spread.
-- **BMI Grand Challenge @ IA3 Sant Pau** - private AI + biomedical imaging challenge project. The repository is not public, but it is one of my most important current engineering efforts.
+- **BMI Grand Challenge @ IA3 Sant Pau** - private AI + biomedical imaging project built around a Grand Challenge-style benchmark: medical-image preprocessing, model experimentation, evaluation tooling, and packaging a robust inference pipeline for clinically meaningful image analysis.
 - **Face Sentinel @ AESS** - AI + robotics project around face recognition on Raspberry Pi hardware, unknown-face detection, and event delivery to a PC receiver.
 - **Applied AI tooling** - building small, sharp tools around LaTeX, retrieval, telecommunications visualization, image processing, and audio/singing synthesis.
 - **Robotics and embedded systems** - firmware, motor control, Bluetooth/MIDI control, and practical hardware integrations through university and AESS Estudiants projects.
