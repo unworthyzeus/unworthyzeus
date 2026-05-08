@@ -48,6 +48,8 @@ I like projects that have both theory and teeth: models that respect physics, to
 
 ### AI, Robotics, and Embedded Systems
 
+- **[HP/PAE Firmware Updater](https://github.com/PAE-HP-TARDOR-2025/firmware_updater)** - CANopen firmware-update protocol for ESP32-based nodes, with CRC/version checks, multi-slave updates, and faster SDO block transfer.
+- **HP/PAE master-slave firmware** - [Master-firmware](https://github.com/PAE-HP-TARDOR-2025/Master-firmware) and [Slave-firmware](https://github.com/PAE-HP-TARDOR-2025/Slave-firmware) for the internal bus nodes used in the HP Advanced Engineering Project.
 - **[Face Sentinel](https://github.com/AESS-Team/face-sentinel)** - Raspberry Pi face-recognition system that enrolls allowed people, detects unknown faces, and sends events/images to a PC receiver.
 - **[Guitar Robot](https://github.com/unworthyzeus/guitar_robot)** and **[guitar_robot_raspi](https://github.com/unworthyzeus/guitar_robot_raspi)** - programmable guitar-playing accessory using embedded control, servos, Bluetooth/MIDI ideas, and Raspberry Pi/ESP32 implementations.
 - **[Titan-II](https://github.com/unworthyzeus/Titan-II)** - remote-controlled toy submarine project with custom control software.
@@ -76,7 +78,7 @@ I like projects that have both theory and teeth: models that respect physics, to
 
 - **R&D and AI Internship @ Lunna** - internship focused on applied AI research and development.
 - **Internship @ Serimag** - built an end-to-end system using LLMs and diffusion models to automate multimodal generation for advertising.
-- **Advanced Engineering Project with HP** - contributed to internal bus communication work for a robotics product, including smart node discovery and a firmware update protocol.
+- **Advanced Engineering Project with HP** - contributed to internal bus communication work for a robotics product, with major work on the [CANopen firmware updater](https://github.com/PAE-HP-TARDOR-2025/firmware_updater) and the [master](https://github.com/PAE-HP-TARDOR-2025/Master-firmware)/[slave](https://github.com/PAE-HP-TARDOR-2025/Slave-firmware) firmware nodes.
 - **AESS Estudiants Robotics Club** - worked on robotics projects combining firmware, mechanics, and control logic.
 
 ---
