@@ -72,6 +72,7 @@ I like projects that have both theory and teeth: models that respect physics, to
 
 ## Background
 
+- **R&D and AI Internship @ Lunna** - internship focused on applied AI research and development.
 - **Internship @ Serimag** - built an end-to-end system using LLMs and diffusion models to automate multimodal generation for advertising.
 - **Advanced Engineering Project with HP** - contributed to internal bus communication work for a robotics product, including smart node discovery and a firmware update protocol.
 - **AESS Estudiants Robotics Club** - worked on robotics projects combining firmware, mechanics, and control logic.
