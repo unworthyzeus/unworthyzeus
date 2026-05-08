@@ -16,7 +16,8 @@ I like projects that have both theory and teeth: models that respect physics, to
 ## Current Focus
 
 - **TFG: deep learning for air-to-ground radio propagation** - final degree project on predicting 513 x 513 urban propagation maps for UAV base stations from city topology and transmitter height. The work includes strict city-holdout generalization, PMHHNet/PMNet-style baselines, physical prior channels, and a final prior-anchored probabilistic pipeline for path loss, delay spread, and angular spread.
-- **BMI Grand Challenge @ IA3 Sant Pau** - private challenge-oriented software/ML project. The repository is not public, but it is one of my most important current engineering efforts.
+- **BMI Grand Challenge @ IA3 Sant Pau** - private AI + biomedical imaging challenge project. The repository is not public, but it is one of my most important current engineering efforts.
+- **Face Sentinel @ AESS** - AI + robotics project around face recognition on Raspberry Pi hardware, unknown-face detection, and event delivery to a PC receiver.
 - **Applied AI tooling** - building small, sharp tools around LaTeX, retrieval, telecommunications visualization, image processing, and audio/singing synthesis.
 - **Robotics and embedded systems** - firmware, motor control, Bluetooth/MIDI control, and practical hardware integrations through university and AESS Estudiants projects.
 
@@ -36,7 +37,6 @@ I like projects that have both theory and teeth: models that respect physics, to
 - **[TikZ Figure Workbench](https://github.com/unworthyzeus/tikz-sketch-converter)** - browser app for sketching diagrams, circuits, plots, and ML figures, then exporting publication-ready TikZ/PGFPlots code. Live app: [tikz-sketch-converter.vercel.app](https://tikz-sketch-converter.vercel.app)
 - **[HyperRAG](https://github.com/unworthyzeus/HyperRAG)** - experiments on geometric RAG optimization, radial encodings, cross-polytope retrieval, and what does or does not improve retrieval at scale.
 - **[Similar Images Searcher](https://github.com/unworthyzeus/Similar-Images-Searcher)** - MATLAB content-based image retrieval system using HMMD color descriptors, multiple similarity metrics, and precision/recall evaluation.
-- **[Polymarket Insider](https://github.com/unworthyzeus/polymarket-insider)** - web tool exploring prediction-market trading patterns and suspicious activity signals.
 
 ### Signals, Audio, and Creative Interfaces
 
@@ -44,11 +44,17 @@ I like projects that have both theory and teeth: models that respect physics, to
 - **[MIDI to Voice Synth Converter](https://github.com/unworthyzeus/midi-to-vsqx)** - web tool that converts MIDI plus lyrics into VSQX, VPR, UST, USTX, and SVP project formats.
 - **[Polyphonic Musical Synthesizer](https://github.com/unworthyzeus/Polyphonical-musical-synthesizer)** - C++ audio synthesis project for digital speech and audio processing coursework.
 
-### Robotics and Embedded Systems
+### AI, Robotics, and Embedded Systems
 
+- **[Face Sentinel](https://github.com/AESS-Team/face-sentinel)** - Raspberry Pi face-recognition system that enrolls allowed people, detects unknown faces, and sends events/images to a PC receiver.
 - **[Guitar Robot](https://github.com/unworthyzeus/guitar_robot)** and **[guitar_robot_raspi](https://github.com/unworthyzeus/guitar_robot_raspi)** - programmable guitar-playing accessory using embedded control, servos, Bluetooth/MIDI ideas, and Raspberry Pi/ESP32 implementations.
 - **[Titan-II](https://github.com/unworthyzeus/Titan-II)** - remote-controlled toy submarine project with custom control software.
 - **[Bluetooth Connected Dropper Robot](https://github.com/unworthyzeus/Bluetooth-Connected-Dropper-Robot)** - C++ robot control project where I owned the software side of a team-built engineering prototype.
+
+### Own Dummy Projects
+
+- **[Polymarket Insider](https://github.com/unworthyzeus/polymarket-insider)** - web experiment exploring prediction-market trading patterns and suspicious activity signals.
+- **[Minecraft Seed Finder](https://github.com/unworthyzeus/minecraft-seed-finder)** - playful web app for finding and sharing curious Minecraft seeds. Live app: [minecraft-seed-finder.vercel.app](https://minecraft-seed-finder.vercel.app)
 
 ---
 
@@ -57,9 +63,9 @@ I like projects that have both theory and teeth: models that respect physics, to
 | Area | Tools and Topics |
 | :--- | :--- |
 | **Languages** | Python, C++, C, MATLAB, Java, JavaScript, TypeScript |
-| **AI and ML** | PyTorch, RAG, computer vision, diffusion/LLM tooling, probabilistic modeling |
+| **AI and ML** | PyTorch, RAG, computer vision, biomedical imaging, face recognition, diffusion/LLM tooling, probabilistic modeling |
 | **Telecom and Signals** | UAV/A2G propagation, radio maps, modulation, DSP, audio coding, image processing |
-| **Hardware** | Embedded systems, ESP32, Arduino, Raspberry Pi, motor control, Bluetooth, basic PCB/electronics |
+| **Hardware** | Embedded systems, ESP32, Arduino, Raspberry Pi, Pi Camera, motor control, Bluetooth, basic PCB/electronics |
 | **Software** | Git, Linux, Vercel, Streamlit, React, CLIs, LaTeX/TikZ tooling |
 
 ---
