@@ -40,24 +40,24 @@ I like projects that have both theory and teeth: models that respect physics, to
 - **[HyperRAG](https://github.com/unworthyzeus/HyperRAG)** - experiments on geometric RAG optimization, radial encodings, cross-polytope retrieval, and what does or does not improve retrieval at scale.
 - **[Similar Images Searcher](https://github.com/unworthyzeus/Similar-Images-Searcher)** - MATLAB content-based image retrieval system using HMMD color descriptors, multiple similarity metrics, and precision/recall evaluation.
 
+### Robotics and Embedded Systems
+
+- **[HP/PAE Firmware Updater](https://github.com/PAE-HP-TARDOR-2025/firmware_updater)** - CANopen firmware-update protocol for ESP32-based nodes, with CRC/version checks, multi-slave updates, and faster SDO block transfer.
+- **HP/PAE master-slave firmware** - [Master-firmware](https://github.com/PAE-HP-TARDOR-2025/Master-firmware) and [Slave-firmware](https://github.com/PAE-HP-TARDOR-2025/Slave-firmware) for the internal bus nodes used in the HP Advanced Engineering Project. Didn't fully do these ones myself but I heavily contributed.
+- **[Face Sentinel](https://github.com/AESS-Team/face-sentinel)** - Raspberry Pi face-recognition system that enrolls allowed people, detects unknown faces, and sends events/images to a PC receiver.
+- **[Guitar Robot](https://github.com/unworthyzeus/guitar_robot)** and **[guitar_robot_raspi](https://github.com/unworthyzeus/guitar_robot_raspi)** - programmable guitar-playing accessory using embedded control, servos, Bluetooth/MIDI ideas, and Raspberry Pi/ESP32 implementations.
+- **[Titan-II](https://github.com/unworthyzeus/Titan-II)** - remote-controlled toy submarine project with custom control software.
+- **[Bluetooth Connected Dropper Robot](https://github.com/unworthyzeus/Bluetooth-Connected-Dropper-Robot)** - C++ robot control project where I owned the software side of a team-built engineering prototype.
+- **[VHDL portfolio](https://github.com/unworthyzeus/vhdl-portfolio-projects)** - VHDL FPGA portfolio projects for computer vision, image processing, video, optical flow, neural networks, and RTL generation.
+  
 ### Signals, Audio, and Creative Interfaces
 
 - **[Constellation Audio Visualizer](https://github.com/unworthyzeus/audio-representation-of-telecommunications-constelations)** - interactive telecom visualization that turns modulation constellations into audio and visual experiences.
 - **[MIDI to Voice Synth Converter](https://github.com/unworthyzeus/midi-to-vsqx)** - web tool that converts MIDI plus lyrics into VSQX, VPR, UST, USTX, and SVP project formats.
 - **[Polyphonic Musical Synthesizer](https://github.com/unworthyzeus/Polyphonical-musical-synthesizer)** - C++ audio synthesis project for digital speech and audio processing coursework.
 
-### AI, Robotics, and Embedded Systems
-
-- **[HP/PAE Firmware Updater](https://github.com/PAE-HP-TARDOR-2025/firmware_updater)** - CANopen firmware-update protocol for ESP32-based nodes, with CRC/version checks, multi-slave updates, and faster SDO block transfer.
-- **HP/PAE master-slave firmware** - [Master-firmware](https://github.com/PAE-HP-TARDOR-2025/Master-firmware) and [Slave-firmware](https://github.com/PAE-HP-TARDOR-2025/Slave-firmware) for the internal bus nodes used in the HP Advanced Engineering Project.
-- **[Face Sentinel](https://github.com/AESS-Team/face-sentinel)** - Raspberry Pi face-recognition system that enrolls allowed people, detects unknown faces, and sends events/images to a PC receiver.
-- **[Guitar Robot](https://github.com/unworthyzeus/guitar_robot)** and **[guitar_robot_raspi](https://github.com/unworthyzeus/guitar_robot_raspi)** - programmable guitar-playing accessory using embedded control, servos, Bluetooth/MIDI ideas, and Raspberry Pi/ESP32 implementations.
-- **[Titan-II](https://github.com/unworthyzeus/Titan-II)** - remote-controlled toy submarine project with custom control software.
-- **[Bluetooth Connected Dropper Robot](https://github.com/unworthyzeus/Bluetooth-Connected-Dropper-Robot)** - C++ robot control project where I owned the software side of a team-built engineering prototype.
-
 ### Own Dummy Projects
 
-- **[Polymarket Insider](https://github.com/unworthyzeus/polymarket-insider)** - web experiment exploring prediction-market trading patterns and suspicious activity signals.
 - **[Minecraft Seed Finder](https://github.com/unworthyzeus/minecraft-seed-finder)** - playful web app for finding and sharing curious Minecraft seeds. Live app: [minecraft-seed-finder.vercel.app](https://minecraft-seed-finder.vercel.app)
 
 ---
