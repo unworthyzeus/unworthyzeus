@@ -99,4 +99,12 @@ I like projects that have both theory and teeth: models that respect physics, to
 - [LinkedIn](https://www.linkedin.com/in/guillem-moreno-garcia-ab8495247/)
 - [Email](mailto:guillem3605@gmail.com)
 
+## Other Unaligned / Newer Work
+
+- **[SWI Vessel Segmentation](https://github.com/unworthyzeus/swi-vessel-segmentation)** - research pipeline for SWI vessel segmentation, QSM calibration, quantitative metrics, and synthetic examples.
+- **[Camera Physiology](https://github.com/unworthyzeus/camera-physiology)** - experimental RGB camera physiology and rPPG signal processing with grouped PPG evaluation.
+- **[Face PAD Evaluation](https://github.com/unworthyzeus/face-pad-evaluation)** - presentation-attack-detection evaluation project with identity-split audits and capture-score validation.
+- **[Computer Vision Experiments](https://github.com/unworthyzeus/computer-vision-experiments)** - runnable computer-vision experiments with synthetic data, transparent baselines, metrics, and tests.
+- **[VHDL portfolio](https://github.com/unworthyzeus/vhdl-portfolio-projects)** - VHDL FPGA portfolio projects for computer vision, image processing, video, optical flow, neural networks, and RTL generation.
+
 <p align="right"><i>Give me a challenge.</i></p>
