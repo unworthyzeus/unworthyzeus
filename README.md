@@ -30,11 +30,11 @@ I like projects that have both theory and teeth: models that respect physics, to
 ### TFG and Wireless AI
 
 - **[Final_Code_TFG](https://github.com/unworthyzeus/Final_Code_TFG)** - final code for my thesis: deep-learning air-to-ground propagation models, including the Try 80 prior-anchored multi-task pipeline and PMHHNet legacy baseline.
+- **[ThZ ISAC](https://github.com/unworthyzeus/THz_ISAC_atmospheric_monitoring)** - THz ISAC atmospheric monitoring research workspace focused on chemical attenuation observability in h(f, l).
+- **[TFGAllProgress_Tries_and_Attempts](https://github.com/unworthyzeus/TFGAllProgress_Tries_and_Attempts)** - historical experiment trail for the TFG, with the earlier attempts, architectural iterations, and lessons that led to the final implementation.
 - **[TFG_ActualText_LaTeX](https://github.com/unworthyzeus/TFG_ActualText_LaTeX)** - LaTeX thesis repository documenting the research, experiments, and final technical narrative.
 - **[CKMGenerator](https://github.com/unworthyzeus/CKMGenerator)** - Streamlit and CLI generator for CKM topology inputs, producing path loss, delay spread, and angular spread outputs from trained models and calibration files.
 - **[CKMPriors](https://github.com/unworthyzeus/CKMAttenuationPriors)** - Calibrated channel attenuation priors for 513 x 513 UAV CKMs.
-- **[ThZ ISAC](https://github.com/unworthyzeus/THz_ISAC_atmospheric_monitoring)** - THz ISAC atmospheric monitoring research workspace focused on chemical attenuation observability in h(f, l).
-- **[TFGAllProgress_Tries_and_Attempts](https://github.com/unworthyzeus/TFGAllProgress_Tries_and_Attempts)** - historical experiment trail for the TFG, with the earlier attempts, architectural iterations, and lessons that led to the final implementation.
 
 ### Engineering Tools and AI Experiments
 
@@ -51,7 +51,16 @@ I like projects that have both theory and teeth: models that respect physics, to
 - **[Titan-II](https://github.com/unworthyzeus/Titan-II)** - remote-controlled toy submarine project with custom control software.
 - **[Bluetooth Connected Dropper Robot](https://github.com/unworthyzeus/Bluetooth-Connected-Dropper-Robot)** - C++ robot control project where I owned the software side of a team-built engineering prototype.
 - **[VHDL portfolio](https://github.com/unworthyzeus/vhdl-portfolio-projects)** - VHDL FPGA portfolio projects for computer vision, image processing, video, optical flow, neural networks, and RTL generation.
-  
+
+
+## Other Unaligned / Newer Work
+
+- **[SWI Vessel Segmentation](https://github.com/unworthyzeus/swi-vessel-segmentation)** - research pipeline for SWI vessel segmentation, QSM calibration, quantitative metrics, and synthetic examples.
+- **[Camera Physiology](https://github.com/unworthyzeus/camera-physiology)** - experimental RGB camera physiology and rPPG signal processing with grouped PPG evaluation.
+- **[Face PAD Evaluation](https://github.com/unworthyzeus/face-pad-evaluation)** - presentation-attack-detection evaluation project with identity-split audits and capture-score validation.
+- **[Computer Vision Experiments](https://github.com/unworthyzeus/computer-vision-experiments)** - runnable computer-vision experiments with synthetic data, transparent baselines, metrics, and tests.
+
+
 ### Signals, Audio, and Creative Interfaces
 
 - **[Constellation Audio Visualizer](https://github.com/unworthyzeus/audio-representation-of-telecommunications-constelations)** - interactive telecom visualization that turns modulation constellations into audio and visual experiences.
@@ -99,12 +108,5 @@ I like projects that have both theory and teeth: models that respect physics, to
 - [LinkedIn](https://www.linkedin.com/in/guillem-moreno-garcia-ab8495247/)
 - [Email](mailto:guillem3605@gmail.com)
 
-## Other Unaligned / Newer Work
-
-- **[SWI Vessel Segmentation](https://github.com/unworthyzeus/swi-vessel-segmentation)** - research pipeline for SWI vessel segmentation, QSM calibration, quantitative metrics, and synthetic examples.
-- **[Camera Physiology](https://github.com/unworthyzeus/camera-physiology)** - experimental RGB camera physiology and rPPG signal processing with grouped PPG evaluation.
-- **[Face PAD Evaluation](https://github.com/unworthyzeus/face-pad-evaluation)** - presentation-attack-detection evaluation project with identity-split audits and capture-score validation.
-- **[Computer Vision Experiments](https://github.com/unworthyzeus/computer-vision-experiments)** - runnable computer-vision experiments with synthetic data, transparent baselines, metrics, and tests.
-- **[VHDL portfolio](https://github.com/unworthyzeus/vhdl-portfolio-projects)** - VHDL FPGA portfolio projects for computer vision, image processing, video, optical flow, neural networks, and RTL generation.
 
 <p align="right"><i>Give me a challenge.</i></p>
