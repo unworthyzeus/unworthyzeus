@@ -53,7 +53,7 @@ I like projects that have both theory and teeth: models that respect physics, to
 - **[VHDL portfolio](https://github.com/unworthyzeus/vhdl-portfolio-projects)** - VHDL FPGA portfolio projects for computer vision, image processing, video, optical flow, neural networks, and RTL generation.
 
 
-## Other Unaligned / Newer Work
+### Other Unaligned / Newer Work
 
 - **[SWI Vessel Segmentation](https://github.com/unworthyzeus/swi-vessel-segmentation)** - research pipeline for SWI vessel segmentation, QSM calibration, quantitative metrics, and synthetic examples.
 - **[Camera Physiology](https://github.com/unworthyzeus/camera-physiology)** - experimental RGB camera physiology and rPPG signal processing with grouped PPG evaluation.
