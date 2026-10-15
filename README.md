@@ -75,8 +75,8 @@ I like projects that have both theory and teeth: models that respect physics, to
 ---
 
 ## Background
-
-- **R&D and AI Internship @ Lunna** - internship focused on applied AI research and development.
+- **Telecom and AI master student researcher @ N3Cat - UPC** - doing things related to signal processing and AI applied to telecom
+- **R&D and AI @ Lunna** - internship focused on applied AI research and development.
 - **Internship @ Serimag** - built an end-to-end system using LLMs and diffusion models to automate multimodal generation for advertising.
 - **Advanced Engineering Project with HP** - contributed to internal bus communication work for a robotics product, with major work on the [CANopen firmware updater](https://github.com/PAE-HP-TARDOR-2025/firmware_updater) and the [master](https://github.com/PAE-HP-TARDOR-2025/Master-firmware)/[slave](https://github.com/PAE-HP-TARDOR-2025/Slave-firmware) firmware nodes.
 - **AESS Estudiants Robotics Club** - worked on robotics projects combining firmware, mechanics, and control logic.
