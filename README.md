@@ -32,6 +32,8 @@ I like projects that have both theory and teeth: models that respect physics, to
 - **[Final_Code_TFG](https://github.com/unworthyzeus/Final_Code_TFG)** - final code for my thesis: deep-learning air-to-ground propagation models, including the Try 80 prior-anchored multi-task pipeline and PMHHNet legacy baseline.
 - **[TFG_ActualText_LaTeX](https://github.com/unworthyzeus/TFG_ActualText_LaTeX)** - LaTeX thesis repository documenting the research, experiments, and final technical narrative.
 - **[CKMGenerator](https://github.com/unworthyzeus/CKMGenerator)** - Streamlit and CLI generator for CKM topology inputs, producing path loss, delay spread, and angular spread outputs from trained models and calibration files.
+- **[CKMPriors](https://github.com/unworthyzeus/CKMAttenuationPriors)** - Calibrated channel attenuation priors for 513 x 513 UAV CKMs.
+- **[ThZ ISAC](https://github.com/unworthyzeus/THz_ISAC_atmospheric_monitoring)** - THz ISAC atmospheric monitoring research workspace focused on chemical attenuation observability in h(f, l).
 - **[TFGAllProgress_Tries_and_Attempts](https://github.com/unworthyzeus/TFGAllProgress_Tries_and_Attempts)** - historical experiment trail for the TFG, with the earlier attempts, architectural iterations, and lessons that led to the final implementation.
 
 ### Engineering Tools and AI Experiments
