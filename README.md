@@ -55,6 +55,7 @@ I like projects that have both theory and teeth: models that respect physics, to
 
 ### Other Unaligned / Newer Work
 
+- **[Chess Screenshot Analyzer](https://github.com/unworthyzeus/chess-screenshot-analyzer)** - local chessboard screenshot recognition and interactive Stockfish analysis, with live variations, editable castling rights, and move-by-move exploration.
 - **[SWI Vessel Segmentation](https://github.com/unworthyzeus/swi-vessel-segmentation)** - research pipeline for SWI vessel segmentation, QSM calibration, quantitative metrics, and synthetic examples.
 - **[Camera Physiology](https://github.com/unworthyzeus/camera-physiology)** - experimental RGB camera physiology and rPPG signal processing with grouped PPG evaluation.
 - **[Face PAD Evaluation](https://github.com/unworthyzeus/face-pad-evaluation)** - presentation-attack-detection evaluation project with identity-split audits and capture-score validation.
